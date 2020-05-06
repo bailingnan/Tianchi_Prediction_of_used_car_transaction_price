@@ -12,4 +12,6 @@ MAE越小，说明模型预测得越准确。
 形式如下：
 ![](https://picgp.oss-cn-beijing.aliyuncs.com/img/20200503192449.png)
 
+# 指南
+[Datawhale数据挖掘竞赛指南](Datawhale数据挖掘.pdf)
 
